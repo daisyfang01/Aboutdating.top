@@ -20,7 +20,7 @@ export const productRecommendations: ProductRecommendation[] = [
     category: 'First Date Fashion',
     description: 'A versatile navy blazer that works for casual dates or upscale restaurants. Pairs well with jeans or chinos.',
     price: '$89-149',
-    affiliateUrl: 'https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Premium+Casual+Blazer+for+Men',
+    affiliateUrl: 'https://sovrn.co/me48pt7',
     relevantArticles: ['first-date-location-ideas', 'dating-tips-first-date', 'first-date-tips-to-impress'],
   },
   {
